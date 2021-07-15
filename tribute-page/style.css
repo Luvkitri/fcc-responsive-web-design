@@ -1,0 +1,28 @@
+body {
+    background: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main {
+    background: #F5F5F5;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#img-div {
+    background: white;
+}
+
+#tribute-info {
+    padding: 30px;
+}
+
+#tribute-timeline {
+    text-align: left;
+}
+
+li {
+    padding: 10px;
+}
