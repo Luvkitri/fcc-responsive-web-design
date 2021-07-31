@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(240, 240, 240);
+}
+
+#header {
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  background-color: rgb(240, 240, 240);
+  padding: 20px;
+  top: 0;
+}
+
+#header-img {
+  width: 50%;
+  height: auto;
+}
+
+#logo {
+  width: 60%;
+}
+
+#nav-bar {
+  width: auto;
+}
+
+#nav-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 35vw;
+}
+
+.nav-link {
+  color: inherit;
+  text-decoration: unset;
+}
